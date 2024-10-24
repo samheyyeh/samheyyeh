@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samheyyeh
 - 👀 I’m interested in Metaverse development, AI, and ML
-- 🌱 I’m currently learning Java, MML, Python, and React
+- 🌱 I’m skilled in MML, Python, and Java
 - 💞️ I’m looking to collaborate on AI/ML project and Metaverse projects
 - 📫 How to reach me samheyyeh@gmail.com
 
